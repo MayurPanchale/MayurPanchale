@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="mailto:panchalemayur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-panchalemayur@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mayur-panchale-68194526a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayur_Panchale-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hashnode.com/@MayurSenpai" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-MayurSenpai-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://buymeacoffee.com/panchalemak" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
