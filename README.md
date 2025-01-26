@@ -25,7 +25,7 @@
 - 🛠 **Passionate DevOps Engineer** with expertise in AWS, Azure, Docker, Jenkins, Kubernetes, and CI/CD pipelines.
 - 🌟 I thrive on automating workflows, optimizing infrastructure, and solving real-world problems.
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, SQL, Ansible, and Python**.
-- 🎶 When I'm not coding, you'll find me exploring music, badminton courts, or crafting new ideas for automation.
+- 🎶 When I'm not coding, you'll find me exploring music, exploring places, or crafting new ideas for automation.
 
 ---
 
