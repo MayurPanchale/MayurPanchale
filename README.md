@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+
 <img align="right" src="" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते+(Namaste)+🙏🏻;+I'm+Mayur😎!!!;"/>
@@ -55,15 +57,15 @@
 
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>My Contributions<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"></h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MayurPanchale/MayurPanchale/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MayurPanchale/MayurPanchale/output/github-contribution-grid-snake.svg" /> -->
   <br/>
     <br/>
-    <img src="https://boards.holopin.io/MayurPanchale" />
+    <!-- <img src="https://boards.holopin.io/MayurPanchale" /> -->
     <br />
 </div>
-<hr/>
+<hr/> -->
 
 <h2 align="center">⚡ ⚙️ Github Stats ⚡ (Expand to View)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
   
