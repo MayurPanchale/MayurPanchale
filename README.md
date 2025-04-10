@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 <details>
   <summary><b>💻 My GitHub Profile Stats</b></summary>
   <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayurPanchale&theme=2077" alt="GitHub Stats" /></p>
@@ -50,7 +50,7 @@
 <details>
   <summary><b>🔥 Contributions</b></summary>
   <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayurPanchale&theme=2077" alt="Contributions" /></p>
-</details>
+</details> -->
 
 ---
 
