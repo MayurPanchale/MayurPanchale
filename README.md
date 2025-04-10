@@ -73,7 +73,6 @@
   </a>
 </p>
 
-
 ### 📫 How to reach me?
 
  - Visit my [Blog](https://hashnode.com/@MayurSenpai) 🌐
