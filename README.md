@@ -72,3 +72,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+😍" alt="Typing SVG" />
   </a>
 </p>
+
+
+### 📫 How to reach me?
+
+ - Visit my [Blog](https://hashnode.com/@MayurSenpai) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/mayurpanchale33/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/mayur_senpai/) ✨
+ - Shoot Me an [Email](panchalemayur@gmail.com) 💌
