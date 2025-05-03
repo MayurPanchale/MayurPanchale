@@ -43,7 +43,7 @@
 ### ⚙️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,helm,jenkins,ansible,linux,git,github,gitlab,azuredevops,nginx,bash,powershell,python,mysql,postgresql,prometheus,grafana,sonarqube,trivy,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,helm,jenkins,ansible,linux,git,github,gitlab,azuredevops,nginx,bash,powershell,python,mysql,postgresql,prometheus,grafana,sonarqube,trivy,vscode,visualstudio" />
 </div>
 
 ---
