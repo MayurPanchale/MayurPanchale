@@ -51,6 +51,7 @@
 ### 📘 Featured Projects
 
 <!-- Add actual links here -->
+- 🔹 **End-to-End Automation with Azure DevOps CI/CD Pipelines +GitOps** -
 - 🔹 **AWS VPC Project** – Public/Private networking, EC2 + MySQL setup with Nginx frontend  
 - 🔹 **Azure CI/CD Pipeline for AKS** – Private AKS cluster with ACR, Key Vault, and Application Gateway  
 - 🔹 **DevSecOps Pipeline Demo** – Secure CI pipeline using SonarQube, Trivy, and OWASP tools on Node.js app  
